@@ -7,7 +7,7 @@ O sistema permite gerenciar **clientes, contas bancárias e operações de saque
 ## 🏗️ Modelagem UML
 O sistema foi modelado com base no seguinte diagrama UML:  
 
-![Diagrama UML](diagrama.png)
+![Diagrama UML](sistema_com_POO/diagrama.png)
 
 ### Principais entidades:
 - **Cliente / Pessoa Física**: Representa os clientes do banco.
